@@ -56,7 +56,7 @@ Instead of just taking classes, I'm actively mastering these domains:
 
 <div align="center">
 
-![Basel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaselAsh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaselAsh&layout=compact&theme=radical)
+![Basel's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=BaselAsh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BaselAsh&layout=compact&theme=radical)
 
 </div>
