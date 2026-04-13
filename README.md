@@ -16,9 +16,9 @@
 I'm a Computer Science student and a developer who obsesses over efficiency. I specialize in the **PERN stack** and low-level systems, but I spend half my time ricing my Linux setup.
 
 - 🔭 **Focus:** Crushing Data Structures & Algorithms and building scalable web apps.
-- 🐧 **Daily Driver:** Arch Linux + Hyprland. (If it's not custom, I don't want it).
-- ☕ **Fuel:** Powered by coffee and the fear of segmentation faults.
-- 🏋️ **Offline:** Powerlifter (Ask me about my 200kg deadlift) & JDM Car enthusiast.
+- 🐧 **Daily Driver:** Arch Linux + Hyprland.
+- ☕ **Fuel:** Powered by coffee and the fear of segfaults.
+- 🏋️ **Offline:** Powerlifter (Ask me about my 200kg deadlift) & Car enthusiast.
 
 ---
 
